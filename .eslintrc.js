@@ -35,6 +35,6 @@ module.exports = {
     "react/prefer-stateless-function": [0, { "ignorePureComponents": true }],
     "react/state-in-constructor": [0, "never"],
     'no-console': ["error", { allow: ["tron"] }],
-    'no-param-reassing': 'off'
+    'no-param-reassign': 'off'
   },
 };
